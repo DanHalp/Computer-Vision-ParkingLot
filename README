@@ -1,0 +1,19 @@
+Dan Halperin, 204145973
+Reut Rabenou, 312416621
+
+Requirments: 
+	- python 3.6 and up
+	- dlib
+	- numpy
+	- matplotlib
+	- openCV (cv2)
+	- imutils
+	- Json
+
+How to Run:
+	- Run main.py
+	- The desired video should be located in "videos" directory, and it's name placed in the suitable
+		place in Constants.py.
+	- The output video will be located located in the "outputs" direcory.
+	- Play the video with a media-player that supports .avi files (a regular player should suffice).
+	- Make an exit (!!!!!! Here comes the money...)
